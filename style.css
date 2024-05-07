@@ -287,7 +287,7 @@ span{
                 0 0 100px var(--main-color),
 }
 .about-content p{
-    font-size: 14px;
+    font-size: 12px;
     line-height: 1.5;
     max-width: 1000px;
     margin-bottom: 0.5rem;
